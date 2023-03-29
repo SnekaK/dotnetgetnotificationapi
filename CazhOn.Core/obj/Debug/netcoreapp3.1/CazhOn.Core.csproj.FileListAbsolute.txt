@@ -1,0 +1,15 @@
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Core.deps.json
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Core.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Core.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Domain.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Dtos.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Domain.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\bin\Debug\netcoreapp3.1\CazhOn.Dtos.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.csproj.AssemblyReference.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.AssemblyInfoInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.AssemblyInfo.cs
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.csproj.CoreCompileInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.csproj.CopyComplete
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.Core\obj\Debug\netcoreapp3.1\CazhOn.Core.pdb

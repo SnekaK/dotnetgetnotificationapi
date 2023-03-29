@@ -1,0 +1,10 @@
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\bin\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.deps.json
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\bin\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\bin\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.csproj.AssemblyReference.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.AssemblyInfoInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.AssemblyInfo.cs
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.csproj.CoreCompileInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\CazhOn.ConstantsEnums\obj\Debug\netcoreapp3.1\CazhOn.ConstantsEnums.pdb
